@@ -10,6 +10,8 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import queue
 import sys
+from main.py import 1.py
+
 
 
 class NovelDownloader:
