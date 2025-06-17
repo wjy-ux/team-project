@@ -10,7 +10,8 @@ import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import queue
 import sys
-from main.py import 1.py
+from main import nihao
+from 小说阅读器 import nihao 
 
 
 
